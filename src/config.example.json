@@ -1,0 +1,8 @@
+{
+    "config": {
+        "securityCode":"",
+        "gateway":"",
+        "identity":"",
+        "psk":""
+    }
+}

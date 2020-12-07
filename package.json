@@ -1,0 +1,28 @@
+{
+  "name": "tradfriwebsocketproxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webfraggle/TradfriWebsocketProxy.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webfraggle/TradfriWebsocketProxy/issues"
+  },
+  "homepage": "https://github.com/webfraggle/TradfriWebsocketProxy#readme",
+  "dependencies": {
+    "node-tradfri-client": "^2.1.8"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.10",
+    "tslint": "^6.1.3",
+    "typescript": "^4.1.2"
+  }
+}
